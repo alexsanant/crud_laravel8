@@ -15,7 +15,7 @@
   }
 
 
-  .btn-danger{
+  .btn-warning{
     margin-top:20px;
   }
 </style>
@@ -62,7 +62,7 @@
         <input type="text" class="form-control" name="password" />
       </div>
 
-      <button type="submit" class="w-100 btn btn-danger">Create User</button>
+      <button type="submit" class="w-100 btn btn-warning">Create User</button>
 
     </form>
   </div>

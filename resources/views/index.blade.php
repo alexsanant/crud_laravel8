@@ -1,6 +1,8 @@
 <!--Esta vista heredará de la vista principal layout.blade.php-->
 @extends('layout')
 
+
+
 @section('content')
 
 <style>

@@ -1,5 +1,4 @@
 <!--Esta vista heredará de la vista layout.blade.php-->
-
 @extends('layout')
 
 @section('content')
@@ -15,7 +14,7 @@
     margin-top:50px;
   }
 
-  .btn-danger{
+  .btn-info{
     margin-top:20px;
   }
 </style>
@@ -64,7 +63,7 @@
     </div>
 
 
-    <button type="submit" class="w-100 btn btn-danger">Update User</button>
+    <button type="submit" class="w-100 btn btn-info">Update User</button>
   </form>
 </div>
 </div>
